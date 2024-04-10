@@ -268,14 +268,4 @@ This concludes the explanation of the code used in the application. The provided
 
 ## Demonstration
 
-### Uploading PDF Files
-![Upload PDF Files](screenshots/upload_files.png)
-*Figure 1: Uploading PDF files to the PDF Chatbot web application.*
-
-### Asking Questions
-![Asking Questions](screenshots/ask_question.png)
-*Figure 2: Asking questions based on the content of uploaded PDF files.*
-
-### Receiving Responses
-![Receiving Responses](screenshots/receive_response.png)
-*Figure 3: Receiving responses from the PDF Chatbot based on the user's questions.*
+![image](https://github.com/hardiksyal/pdfchat-mistral/assets/63895326/400b0bd8-4221-4cbb-8e26-493f943b7cd4)
