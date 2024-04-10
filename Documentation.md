@@ -104,8 +104,7 @@ if not os.path.exists('jj'):
 
 ```python
 if 'template' not in st.session_state:
-    st.session_state.template = """You are a knowledgeable chatbot, here to help with questions of the user. Your tone should be professional and informative.
-
+    st.session_state.template = """You are a knowledgeable chatbot, here to help with questions of the user. Your tone should be professional, informative, and detailed. Make sure to carefully format your answers in readable and presentable format. If you don't know the answer just say you cannot answer as it's not in the context, don't try to make up an answer but try your best to look for the answer in the context again.\n\n
     Context: {context}
     History: {history}
 
