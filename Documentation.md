@@ -265,5 +265,3 @@ else:
 This concludes the explanation of the code used in the application. The provided code implements the functionality of the PDF chatbot, including PDF analysis, question-answering, and user interaction through the Streamlit interface.
 
 ---
-
-This detailed explanation should help users understand how the code works and how each component contributes to the functionality of the PDF chatbot application. If you have any further questions or require additional clarification, please let me know!
